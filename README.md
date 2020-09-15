@@ -10,5 +10,8 @@ Het is makkelijk om woorden **dikgedrukt** of *schuin* te maken met Markdown. Je
    1. Item 3a
    1. Item 3b
 
-   ![GitHub Logo](/images/logo.png)
-   Format: ![Alt Text](url)
+> Dit is een quote...
+
+`<addr>` Test Test
+
+:grinning:
